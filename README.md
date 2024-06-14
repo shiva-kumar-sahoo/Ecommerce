@@ -1,5 +1,34 @@
 # Ecommerce
 
+## Demo
+
+### HomePage
+
+https://github.com/code-shiva-kumar/Ecommerce/assets/147520982/6b3be9b5-e2e5-4ce7-b934-49cd9c82586c
+
+
+### Theme changing
+
+https://github.com/code-shiva-kumar/Ecommerce/assets/147520982/310b7f7f-3e72-46b4-b1d1-79fa435f845a
+
+### Cart Functionality
+
+https://github.com/code-shiva-kumar/Ecommerce/assets/147520982/e4fb6da1-3c12-4650-8814-f5f33bced4af
+
+
+### User Frontend
+
+
+
+### Admin
+![admin-login-screen](https://github.com/code-shiva-kumar/Ecommerce/assets/147520982/932ac136-8948-4522-ad59-42df8d32009b)
+
+![admin-dashboard](https://github.com/code-shiva-kumar/Ecommerce/assets/147520982/5a1198aa-fced-4fab-b960-a3ae2d8c8ccb)
+
+![admin-product-page](https://github.com/code-shiva-kumar/Ecommerce/assets/147520982/5fcabc2f-3ee4-4291-babe-e3eb24183674)
+
+![admin-users](https://github.com/code-shiva-kumar/Ecommerce/assets/147520982/bacd44ae-73e3-4d2c-ab67-e3fcb25bd2bd)
+
 ## Overview
 
 Ecommerce is a comprehensive e-commerce application that includes both frontend and backend files. It provides a seamless and fully functional online shopping experience, complete with product listings, shopping cart functionality, user authentication, and order processing.
